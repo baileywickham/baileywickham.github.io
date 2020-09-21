@@ -1,0 +1,15 @@
+Package: rdock
+Priority: optional
+Section: base
+Maintainer: Bailey Wickham b@baileywickham.com
+Architecture: all
+Version: 1.0-1
+Filename: pool/main/r/rdock/rdock.deb
+Size: 828
+MD5sum: 90ca6d99bb4ffbd6dd60c9974ea4dc47
+SHA1: c39b74dd32ae220e777877da46407454ecfe2699
+SHA256: c0a5eeddae81a747387e05e298c1e1cfa05fe1cdf44d4be2e2b67d2bb147d857
+SHA512: 3c10b8ad5ab96e77d5e0faff624ffe49f6dbed06337df4927707470b688d649c14652523cbd0a3edb21ed1b889e86caf903d0c52c7f647dab0eb0ffbb750fd34
+Description: rdock
+    Builds and runs a Dockerfile
+
