@@ -2,7 +2,7 @@ Package: rdock
 Version: 1.0-1
 Section: base
 Priority: optional
-Architecture: any
+Architecture: all
 Maintainer: Bailey Wickham b@baileywickham.com
 Description: rdock
     Builds and runs a Dockerfile
