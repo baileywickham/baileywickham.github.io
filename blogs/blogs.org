@@ -1,0 +1,32 @@
+#+setupfile: comfy_inline.theme
+* Blogs
+
+A list of blogs that are interesting. 
+
+Lots of these are a specific link on an interesting website, others are full blogs. 
+
+
+** Good
+- [[https://tetw.org][The electric typewriter]]
+- [[https://astralcodexten.substack.com/][Excellent science blog, see archives]]
+- [[https://lettersofnote.com/most-read/][Letters from famous people, very good]]
+- [[https://jvns.ca/][Julia Evans, good basic explainations, You would like her]]
+- [[https://www.benkuhn.net/][My friend ben]]
+
+** Culture
+- [[https://www.otherhand.org/][This guy adventures and writes, death valley germans is a good story]]
+- [[https://jeff.kim/chi-modu/][An interview with a famous hip hop photographer]]
+- [[https://patrickcollison.com/bookshelf][Books a smart guy likes]]
+- [[https://basementgeographer.com/the-longest-train-ride-in-the-world/][A very long train ride]]
+- [[https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions][Grapefruit]]
+- [[https://store.sound-merch.com.au/collections/bjennymontero][Cool shirts]]
+- [[https://pad.ma/][weird film blog]]
+- [[https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/][Doing business in japan]]
+- [[http://www.psyke.org/history/200003/suicide/articles03.html][How not to commit suicide, one of the most interesting pieces I've ever read]]
+
+** Tech / math
+- [[https://codewords.recurse.com/issues][good tech writing]]
+- [[https://stopa.io/post/269][Really good piece on Godel incompleteness]]
+- [[https://www.gwern.net/index][Crazy and smart guy does science]]
+- [[https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213][What does a math person do?]]
+- [[https://blog.computationalcomplexity.org/2007/02/graduate-student-guide.html][Phd guide]]
